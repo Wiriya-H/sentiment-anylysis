@@ -18,7 +18,7 @@ st.subheader("Natthinan Khemthong DATA SCIENCE NPRU")
 
 col1, col2 = st.columns(2)
 with col1:
-    st.image('./pic/e.jpg')
+    st.image('./pic/2.jpg')
     lot3="https://lottie.host/347e3388-72e3-4b11-9fe8-49b2349c4a7a/GekjLnvyXb.json"
     lottie3 = load_lottieurl(lot3)
     st_lottie(lottie3)
