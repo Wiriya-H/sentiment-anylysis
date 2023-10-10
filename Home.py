@@ -15,6 +15,7 @@ def load_lottieurl(url: str):
 st.header("การวิเคราะห์ความรู้สึกภาษาไทย")
 st.subheader("Wiriya Hemmala | Data Science | NPRU")
 
+
 col1, col2 = st.columns(2)
 with col1:
     st.image('./pic/1.jpg')
