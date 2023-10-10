@@ -18,7 +18,7 @@ st.subheader("Wiriya Hemmala")
 col1, col2 = st.columns(2)
 with col1:
     st.image('./pic/1.jpg')
-    lot3="https://lottie.host/defef63f-5b59-455d-a6e0-ff03f2791104/t43d8wbLKq.json"
+    lot3="https://lottie.host/4b977781-5cbd-4197-8466-7c010f61a0f2/gIB4ii7vOk.json"
     lottie3 = load_lottieurl(lot3)
     st_lottie(lottie3)
 with col2:
