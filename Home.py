@@ -13,13 +13,13 @@ def load_lottieurl(url: str):
 
 
 st.header("การวิเคราะห์ความรู้สึกภาษาไทย")
-st.subheader("Wiriya Hemmala | Data Science | NPRU")
+st.subheader("Natthinan Khemthong DATA SCIENCE NPRU")
 
 
 col1, col2 = st.columns(2)
 with col1:
-    st.image('./pic/1.jpg')
-    lot3="https://lottie.host/4b977781-5cbd-4197-8466-7c010f61a0f2/gIB4ii7vOk.json"
+    st.image('./pic/e.jpg')
+    lot3="https://lottie.host/347e3388-72e3-4b11-9fe8-49b2349c4a7a/GekjLnvyXb.json"
     lottie3 = load_lottieurl(lot3)
     st_lottie(lottie3)
 with col2:
