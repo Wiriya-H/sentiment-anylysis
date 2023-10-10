@@ -13,7 +13,9 @@ def load_lottieurl(url: str):
 
 
 st.header("การวิเคราะห์ความรู้สึกภาษาไทย")
-st.subheader("Wiriya Hemmala วิทยาการข้อมูล ม.ราชภัฏนครปฐม")
+st.subheader("Wiriya Hemmala")
+st.subheader("DS | Data Science")
+st.subheader("NPRU | Nakhon Pathom Rajabhat University")
 
 col1, col2 = st.columns(2)
 with col1:
